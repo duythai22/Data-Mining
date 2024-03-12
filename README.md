@@ -79,7 +79,7 @@ Sử dụng thuật toán decision tree để xây dựng các luật IF - THEN 
 - Thực hiện đánh giá mô hình dựa vào confusion matrix
 ![image](https://github.com/nguyenthanhhungDE/Data-Mining/assets/134383281/848a8297-278c-4d04-9491-9243c682744b)
 Độ chính xác của mô hình đạt 88% .
-- Preiction 
+- Precision
 ![image](https://github.com/nguyenthanhhungDE/Data-Mining/assets/134383281/6014affb-0010-4009-85e9-be9d33b4aeb8)
 
 Kết quả xác suất 52% người đó phản hồi lại chiến dịch tiếp thị mới nhất. Kết quả này đúng với dự đoán của nhóm. Vì ta thấy người này có chấp nhận tham gia cả 3 chiến dịch là 1,3,5 và số tiền chi ra mua thịt > 600$ nên khả năng cao lớn hơn 50% người đó phản hồi lại chiến dịch tiếp thị mới nhất. 
